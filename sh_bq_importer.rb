@@ -14,6 +14,7 @@ mysql_u = gets.chomp
 print "Input MySQL password: "
 mysql_p = STDIN.noecho &:gets
 mysql_p.chomp!
+puts ""
 print "Input MySQL Database name: "
 mysql_d = gets.chomp
 
