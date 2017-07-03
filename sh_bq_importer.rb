@@ -6,7 +6,7 @@ lang_w = gets.chomp
 print "Input target yymmdd (e.g. '20170320'): "
 yymmdd = gets.chomp
 
-print 'Input GSC instance_name name (e.g. "gs://hogehoge/"): '
+print 'Input gs instance_name name (e.g. "gs://hogehoge/"): '
 instance_name = gets.chomp
 
 print "Input MySQL User name: "
