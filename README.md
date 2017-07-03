@@ -37,7 +37,9 @@ Input GSC instance_name name (e.g. "gs://hogehoge/"): **gs://instance-name/**
 
 Input MySQL User name: **test**
 
-Input MySQL password: Input MySQL Database name: **ja_wikipedia_dump**
+Input MySQL password: ********
+
+Input MySQL Database name: **ja_wikipedia_dump**
 
 Wrote to ./step2_jawiki_20170701.sh! ---> Next: "sh ./step2_jawiki_20170701.sh";
 
