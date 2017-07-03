@@ -33,7 +33,7 @@ Input target lang (e.g. 'jawiki'): **jawiki**
 
 Input target yymmdd (e.g. '20170320'): **20170701**
 
-Input GSC instance_name name (e.g. "gs://hogehoge/"): **gs://instance-name/**
+Input gs instance_name name (e.g. "gs://hogehoge/"): **gs://instance-name/**
 
 Input MySQL User name: **test**
 
